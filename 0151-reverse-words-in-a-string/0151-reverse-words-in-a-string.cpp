@@ -37,7 +37,7 @@ public:
         reverse(v.begin(),v.end());
         string ans="";
         for(auto i:v) {
-            ans.append(' '+ i);
+            ans.append(i+" ");
         }
         ans = trim(ans);
         return ans;
