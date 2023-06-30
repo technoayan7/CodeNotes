@@ -1,29 +1,39 @@
 class Solution {
 public:
     double maxProbability(int n, vector<vector<int>>& e, vector<double>& p, int s, int end) {
-        vector<pair<int,double>>ad[n+1];
-        for(int i=0;i<e.size();i++){
-            ad[e[i][0]].push_back({e[i][1],p[i]});
-            ad[e[i][1]].push_back({e[i][0],p[i]});
+        vector<pair<int,double>> adj[n+1];
+        for(int i=0;i<e.size();i++) {
+            adj[e[i][0]].push_back({e[i][1], p[i]});
+            adj[e[i][1]].push_back({e[i][0], p[i]});
         }
-        priority_queue<pair<double,int>>pq;
-        pq.push({1.0,s});
-        vector<double>pro(n+1,0.0);
-        pro[s]=1.0;
-        while(pq.size()){
-            auto x = pq.top();
+        priority_queue<pair<double, int>> pq;
+        vector<double> distTo(n, 0);
+        distTo[s] = 0.0;
+        pq.push({1.0, s});
+        // Now, pop the max distance node first from the max-heap
+        // and traverse for all its adjacent nodes.
+        while (!pq.empty())
+        {
+            double dis = pq.top().first;
+            int node = pq.top().second;
             pq.pop();
-            double pb = x.first;
-            int in = x.second;
-            if(in==end)continue;
-            for(auto k:ad[in]){
-                double pp = pb * k.second;
-                if(pro[k.first]<pp){
-                    pro[k.first] = pp;
-                    pq.push({pro[k.first],k.first});
+
+            // Check for all adjacent nodes of the popped out
+            // element whether the prev dist is larger than current or not.
+            for (auto it : adj[node])
+            {
+                int v = it.first;
+                double w = it.second;
+                double pp = dis * w;
+                if (pp > distTo[v])
+                {
+                    distTo[v] = pp;
+                    // If current distance is larger,
+                    // push it into the queue.
+                    pq.push({pp, v});
                 }
             }
         }
-        return pro[end];
+        return distTo[end];
     }
 };
