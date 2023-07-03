@@ -1,16 +1,16 @@
 class Solution {
 public:
-    TreeNode* solve(vector<int>& a , int s , int e) {
-        if(s>e) return NULL;
-        int mid = s + (e-s)/2;
-        TreeNode* r = new TreeNode(a[mid]);
-        r->left = solve(a,s,mid-1);
-        r->right = solve(a,mid+1,e);
-        return r;
+    TreeNode* solve(int left , int right , vector<int>&ans ){
+        if(left>right) return nullptr;
+        int mid = left + (right-left)/2;
+        
+        TreeNode* root = new TreeNode(ans[mid]);
+        root->left = solve(left , mid-1 ,ans);
+        root->right= solve(mid+1 , right , ans);
+        return root;
     }
     
-    TreeNode* sortedArrayToBST(vector<int>& a) {
-        int n = a.size();
-        return solve(a,0,n-1);
+    TreeNode* sortedArrayToBST(vector<int>& nums) {
+        return solve(0,nums.size()-1,nums);
     }
 };
