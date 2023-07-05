@@ -17,7 +17,7 @@ public:
             int c = q.front().second;
             q.pop();
              
-            if(mat[r][c] == newColor) continue;
+            //if(mat[r][c] == newColor) continue;
             ans[r][c] = newColor;
             
             for(int i = 0;i<4;i++) {
