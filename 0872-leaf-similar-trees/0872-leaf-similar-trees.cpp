@@ -1,28 +1,19 @@
 
 class Solution {
 public:
-    vector<int> v1,v2;
-    void preorder1(TreeNode* root) {
+    void preorder(TreeNode* root, vector<int> &v) {
         if (root == NULL) return;
 
         if (!root->left && !root->right)
-            v1.push_back(root->val);
+            v.push_back(root->val);
 
-        preorder1(root->left);
-        preorder1(root->right);
-    }
-    void preorder2(TreeNode* root) {
-        if (root == NULL) return;
-
-        if (!root->left && !root->right)
-            v2.push_back(root->val);
-
-        preorder2(root->left);
-        preorder2(root->right);
+        preorder(root->left, v);
+        preorder(root->right, v);
     }
     bool leafSimilar(TreeNode* root1, TreeNode* root2) {
-        preorder1(root1);
-        preorder2(root2);
+        vector<int> v1,v2;
+        preorder(root1, v1);
+        preorder(root2, v2);
         return v1==v2;
     }
 };
