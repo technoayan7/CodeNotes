@@ -7,8 +7,8 @@ public:
         for (int i = 0; i < n; i++) {
             int jump = i + nums[i];
             if(jump >= maxReach) {
-                maxReach = jump;
                 if(nums[i]==0) return false;
+                maxReach = jump;
             }
             if(maxReach >= n-1) return true;
         }
