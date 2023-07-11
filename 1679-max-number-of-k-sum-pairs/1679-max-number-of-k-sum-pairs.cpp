@@ -10,8 +10,8 @@ public:
           if(mp.find(res) != mp.end()) {
               ans++;
               mp[res]--;
+              if(mp[res]==0) mp.erase(res);
           }
-          if(mp[res]==0) mp.erase(res);
       }
       return ans/2;
     }
