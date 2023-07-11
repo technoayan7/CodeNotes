@@ -5,9 +5,9 @@ public:
         int maxReach = 0;
         if(n==1) return true;
         for (int i = 0; i < n; i++) {
+            if(i > maxReach) return false;
             int jump = i + nums[i];
             if(jump >= maxReach) {
-                if(nums[i]==0) return false;
                 maxReach = jump;
             }
             if(maxReach >= n-1) return true;
