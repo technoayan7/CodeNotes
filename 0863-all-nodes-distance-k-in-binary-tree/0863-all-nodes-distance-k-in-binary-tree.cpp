@@ -26,74 +26,30 @@ public:
             if(cnt==k) break;
             cnt++;
             int size=q.size();
-            for(int i=0;i<size;i++){
-                TreeNode*front=q.front();
+            for(int i=0;i<size;i++) {
+                TreeNode* node = q.front();
                 q.pop();
-                if(front->left  &&  !visited[front->left]){
-                    q.push(front->left);
-                    visited[front->left]=true;
+                if(node->left  &&  !visited[node->left]){
+                    q.push(node->left);
+                    visited[node->left]=true;
                 }
-                if(front->right  &&  !visited[front->right]){
-                    q.push(front->right);
-                    visited[front->right]=true;
+                if(node->right  &&  !visited[node->right]){
+                    q.push(node->right);
+                    visited[node->right]=true;
                 }
-                if(parent[front]  &&  !visited[ parent[front] ]){
-                    q.push( parent[front] );
-                    visited[parent[front]]=true;
+                if(parent[node]  &&  !visited[ parent[node] ]){
+                    q.push( parent[node] );
+                    visited[parent[node]]=true;
                 }
             }
         }
         vector<int> ans;
         while(!q.empty()){
-            TreeNode*front=q.front();
+            TreeNode* node = q.front();
             q.pop();
-            ans.push_back( front->val );
+            ans.push_back( node->val );
         }
         return ans;
     }
 };
 
-// class Solution {
-// public:
-//     vector<int>a;
-//     void depth(TreeNode* root,int k){
-//         if(!root)return;
-//         if(k==0)a.push_back(root->val);
-//         depth(root->left,k-1);
-//         depth(root->right,k-1);
-//     }
-//     int c(TreeNode* root,TreeNode* target,int k){
-//         if(!root){
-//             return -1;
-//         }
-//         if(root==target){
-//             depth(root,k);
-//             return 0;
-//         }
-//         int leftd = c(root->left,target,k);
-//         if(leftd!=-1){
-//             if(leftd+1==k){
-//                 a.push_back(root->val);
-//             }
-//             else{
-//                 depth(root->right,k-leftd-2);
-//             }
-//             return 1+leftd;
-//         }
-//         int rightd = c(root->right,target,k);
-//         if(rightd!=-1){
-//              if(rightd+1==k){
-//                 a.push_back(root->val);
-//             }
-//             else{
-//                 depth(root->left,k-rightd-2);
-//             }
-//             return 1+rightd;
-//         }
-//         return -1;
-//     }
-//     vector<int> distanceK(TreeNode* root, TreeNode* target, int k) {
-//         c(root,target,k);
-//         return a;
-//     }
-// };
