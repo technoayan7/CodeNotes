@@ -43,9 +43,8 @@ public:
 class Solution {
 public:
     int removeStones(vector<vector<int>>& stones) {
-
+    
     int n=stones.size();
-
     int maxrow=0;
     int maxcol=0;
 
@@ -55,7 +54,6 @@ public:
     }
 
     DSU ds(maxrow+maxcol+1);
-
     vector<int> vis(maxrow+maxcol+2,0);
 
     for(auto it:stones){
@@ -72,7 +70,6 @@ public:
     }
 
     int m=vis.size();
-
     unordered_set<int> st;
 
     for(int i=0;i<m;i++) {
@@ -80,8 +77,7 @@ public:
             st.insert(ds.findUPar(i));
         }
     }
-
-    return stones.size()-st.size();
-
+        
+    return n-st.size();
     }
 };
