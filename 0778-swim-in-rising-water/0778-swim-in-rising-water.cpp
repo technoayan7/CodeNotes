@@ -26,8 +26,7 @@ public:
             pq.pop();
             
             if(r==n-1 and c==m-1){
-                if(time >= ans) return time;
-                else return ans;
+                break;
             }
                 
             for(int i = 0; i<4; i++)
@@ -41,6 +40,6 @@ public:
                 }
             }
         }
-        return 0;
+        return ans;
     }
 };
