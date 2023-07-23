@@ -14,7 +14,7 @@ public:
         if(moves == 0)
             return 1;
         
-        string key = to_string(r) + "aryan" + to_string(c) + "mittal" + to_string(moves);
+        string key = to_string(r) + "AYan" + to_string(c) + "Ahmad" + to_string(moves);
         if(mp.find(key) != mp.end())
             return mp[key];
         
