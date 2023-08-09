@@ -21,7 +21,7 @@ public:
             int mid = l + (h-l)/2;
             if(possible(mid, p, nums)) {
                 h = mid - 1;
-                ans = min(ans,mid);
+                ans = mid;
             }
             else {
                 l = mid + 1;
