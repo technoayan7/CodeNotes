@@ -23,10 +23,10 @@ public:
            ans += p1.second;
            ans += p2.second;
            if(p1.first>1) {
-               p.push({p1.first-1,p1.second});
+               p.push({p1.first-1, p1.second});
            }
            if(p2.first>1){
-               p.push({p2.first-1,p2.second});
+               p.push({p2.first-1, p2.second});
            }
        }
        if(p.size()==1)
