@@ -1,9 +1,8 @@
 class Solution {
 public:
     bool isPowerOfTwo(int n) {
-        if(n >= INT_MAX || n <= INT_MIN) return false;
-        int l = 0;
-        int h = n;
+        if(n <= 0) return false;
+        int l = 0, h = n;
         while(l<=h) {
             int mid = (l+h)/2;
             if(pow(2,mid) == abs(n)) return true;
