@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0407-trapping-rain-water-ii](https://github.com/technoayan7/CodeNotes/tree/master/0407-trapping-rain-water-ii) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/technoayan7/CodeNotes/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/technoayan7/CodeNotes/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/technoayan7/CodeNotes/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -41,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Breadth-First Search
 |  |
 | ------- |
+| [0407-trapping-rain-water-ii](https://github.com/technoayan7/CodeNotes/tree/master/0407-trapping-rain-water-ii) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/technoayan7/CodeNotes/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 ## Graph
 |  |
@@ -49,10 +51,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0407-trapping-rain-water-ii](https://github.com/technoayan7/CodeNotes/tree/master/0407-trapping-rain-water-ii) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/technoayan7/CodeNotes/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 ## Matrix
 |  |
 | ------- |
+| [0407-trapping-rain-water-ii](https://github.com/technoayan7/CodeNotes/tree/master/0407-trapping-rain-water-ii) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/technoayan7/CodeNotes/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 ## Shortest Path
 |  |
