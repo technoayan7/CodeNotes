@@ -49,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/technoayan7/CodeNotes/tree/master/0407-trapping-rain-water-ii) |
+| [0684-redundant-connection](https://github.com/technoayan7/CodeNotes/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/technoayan7/CodeNotes/tree/master/0820-find-eventual-safe-states) |
 | [1396-count-servers-that-communicate](https://github.com/technoayan7/CodeNotes/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/technoayan7/CodeNotes/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -57,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Graph
 |  |
 | ------- |
+| [0684-redundant-connection](https://github.com/technoayan7/CodeNotes/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/technoayan7/CodeNotes/tree/master/0820-find-eventual-safe-states) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/technoayan7/CodeNotes/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1558-course-schedule-iv](https://github.com/technoayan7/CodeNotes/tree/master/1558-course-schedule-iv) |
@@ -81,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Depth-First Search
 |  |
 | ------- |
+| [0684-redundant-connection](https://github.com/technoayan7/CodeNotes/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/technoayan7/CodeNotes/tree/master/0820-find-eventual-safe-states) |
 | [1396-count-servers-that-communicate](https://github.com/technoayan7/CodeNotes/tree/master/1396-count-servers-that-communicate) |
 | [1558-course-schedule-iv](https://github.com/technoayan7/CodeNotes/tree/master/1558-course-schedule-iv) |
@@ -88,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Union Find
 |  |
 | ------- |
+| [0684-redundant-connection](https://github.com/technoayan7/CodeNotes/tree/master/0684-redundant-connection) |
 | [1396-count-servers-that-communicate](https://github.com/technoayan7/CodeNotes/tree/master/1396-count-servers-that-communicate) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/technoayan7/CodeNotes/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Topological Sort
