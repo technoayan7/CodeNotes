@@ -120,6 +120,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/technoayan7/CodeNotes/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [3739-manhattan-distances-of-all-arrangements-of-pieces](https://github.com/technoayan7/CodeNotes/tree/master/3739-manhattan-distances-of-all-arrangements-of-pieces) |
 ## Combinatorics
 |  |
@@ -133,4 +134,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3447-clear-digits](https://github.com/technoayan7/CodeNotes/tree/master/3447-clear-digits) |
+## Backtracking
+|  |
+| ------- |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/technoayan7/CodeNotes/tree/master/2802-find-the-punishment-number-of-an-integer) |
 <!---LeetCode Topics End-->
