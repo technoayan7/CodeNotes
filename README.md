@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1364-tuple-with-same-product](https://github.com/technoayan7/CodeNotes/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/technoayan7/CodeNotes/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2107-find-unique-binary-string](https://github.com/technoayan7/CodeNotes/tree/master/2107-find-unique-binary-string) |
 | [2685-first-completely-painted-row-or-column](https://github.com/technoayan7/CodeNotes/tree/master/2685-first-completely-painted-row-or-column) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/technoayan7/CodeNotes/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/technoayan7/CodeNotes/tree/master/3455-minimum-length-of-string-after-operations) |
@@ -15,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/technoayan7/CodeNotes/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2107-find-unique-binary-string](https://github.com/technoayan7/CodeNotes/tree/master/2107-find-unique-binary-string) |
 | [3447-clear-digits](https://github.com/technoayan7/CodeNotes/tree/master/3447-clear-digits) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/technoayan7/CodeNotes/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Counting
@@ -34,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/technoayan7/CodeNotes/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1876-map-of-highest-peak](https://github.com/technoayan7/CodeNotes/tree/master/1876-map-of-highest-peak) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/technoayan7/CodeNotes/tree/master/1927-maximum-ascending-subarray-sum) |
+| [2107-find-unique-binary-string](https://github.com/technoayan7/CodeNotes/tree/master/2107-find-unique-binary-string) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/technoayan7/CodeNotes/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2685-first-completely-painted-row-or-column](https://github.com/technoayan7/CodeNotes/tree/master/2685-first-completely-painted-row-or-column) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/technoayan7/CodeNotes/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -137,5 +140,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Backtracking
 |  |
 | ------- |
+| [2107-find-unique-binary-string](https://github.com/technoayan7/CodeNotes/tree/master/2107-find-unique-binary-string) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/technoayan7/CodeNotes/tree/master/2802-find-the-punishment-number-of-an-integer) |
 <!---LeetCode Topics End-->
