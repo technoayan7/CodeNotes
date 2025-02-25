@@ -34,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1364-tuple-with-same-product](https://github.com/technoayan7/CodeNotes/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/technoayan7/CodeNotes/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/technoayan7/CodeNotes/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/technoayan7/CodeNotes/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1876-map-of-highest-peak](https://github.com/technoayan7/CodeNotes/tree/master/1876-map-of-highest-peak) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/technoayan7/CodeNotes/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2107-find-unique-binary-string](https://github.com/technoayan7/CodeNotes/tree/master/2107-find-unique-binary-string) |
@@ -123,6 +124,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/technoayan7/CodeNotes/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/technoayan7/CodeNotes/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [3739-manhattan-distances-of-all-arrangements-of-pieces](https://github.com/technoayan7/CodeNotes/tree/master/3739-manhattan-distances-of-all-arrangements-of-pieces) |
 ## Combinatorics
@@ -142,4 +144,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [2107-find-unique-binary-string](https://github.com/technoayan7/CodeNotes/tree/master/2107-find-unique-binary-string) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/technoayan7/CodeNotes/tree/master/2802-find-the-punishment-number-of-an-integer) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/technoayan7/CodeNotes/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/technoayan7/CodeNotes/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 <!---LeetCode Topics End-->
