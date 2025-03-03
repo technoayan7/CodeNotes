@@ -40,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1876-map-of-highest-peak](https://github.com/technoayan7/CodeNotes/tree/master/1876-map-of-highest-peak) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/technoayan7/CodeNotes/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2107-find-unique-binary-string](https://github.com/technoayan7/CodeNotes/tree/master/2107-find-unique-binary-string) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/technoayan7/CodeNotes/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/technoayan7/CodeNotes/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2551-apply-operations-to-an-array](https://github.com/technoayan7/CodeNotes/tree/master/2551-apply-operations-to-an-array) |
 | [2685-first-completely-painted-row-or-column](https://github.com/technoayan7/CodeNotes/tree/master/2685-first-completely-painted-row-or-column) |
@@ -144,6 +145,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 |  |
 | ------- |
+| [2265-partition-array-according-to-given-pivot](https://github.com/technoayan7/CodeNotes/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/technoayan7/CodeNotes/tree/master/2551-apply-operations-to-an-array) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/technoayan7/CodeNotes/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3447-clear-digits](https://github.com/technoayan7/CodeNotes/tree/master/3447-clear-digits) |
@@ -164,6 +166,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [2265-partition-array-according-to-given-pivot](https://github.com/technoayan7/CodeNotes/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/technoayan7/CodeNotes/tree/master/2551-apply-operations-to-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/technoayan7/CodeNotes/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 <!---LeetCode Topics End-->
