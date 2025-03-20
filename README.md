@@ -58,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/technoayan7/CodeNotes/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3227-find-missing-and-repeated-values](https://github.com/technoayan7/CodeNotes/tree/master/3227-find-missing-and-repeated-values) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/technoayan7/CodeNotes/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
+| [3348-minimum-cost-walk-in-weighted-graph](https://github.com/technoayan7/CodeNotes/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/technoayan7/CodeNotes/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/technoayan7/CodeNotes/tree/master/3483-alternating-groups-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/technoayan7/CodeNotes/tree/master/3643-zero-array-transformation-ii) |
@@ -69,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2533-bitwise-xor-of-all-pairings](https://github.com/technoayan7/CodeNotes/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/technoayan7/CodeNotes/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/technoayan7/CodeNotes/tree/master/2792-neighboring-bitwise-xor) |
+| [3348-minimum-cost-walk-in-weighted-graph](https://github.com/technoayan7/CodeNotes/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/technoayan7/CodeNotes/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Greedy
 |  |
@@ -97,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/technoayan7/CodeNotes/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1558-course-schedule-iv](https://github.com/technoayan7/CodeNotes/tree/master/1558-course-schedule-iv) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/technoayan7/CodeNotes/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
+| [3348-minimum-cost-walk-in-weighted-graph](https://github.com/technoayan7/CodeNotes/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -133,6 +136,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0854-making-a-large-island](https://github.com/technoayan7/CodeNotes/tree/master/0854-making-a-large-island) |
 | [1396-count-servers-that-communicate](https://github.com/technoayan7/CodeNotes/tree/master/1396-count-servers-that-communicate) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/technoayan7/CodeNotes/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3348-minimum-cost-walk-in-weighted-graph](https://github.com/technoayan7/CodeNotes/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Topological Sort
 |  |
 | ------- |
