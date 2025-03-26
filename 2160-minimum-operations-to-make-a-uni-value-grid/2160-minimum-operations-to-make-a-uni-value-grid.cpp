@@ -14,12 +14,11 @@ public:
         else mid = arr[n/2];
         int cnt = 0;
         for(auto it: arr) {
+            if(abs(it-mid)%x) return -1;
             if(it > mid) {
-                if((it-mid)%x) return -1;
                 cnt += (it-mid)/x;
             }
             else if(it < mid) {
-                if((mid-it)%x) return -1;
                 cnt += (mid-it)/x;
             }
         }
