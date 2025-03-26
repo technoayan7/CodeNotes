@@ -15,11 +15,8 @@ public:
         int cnt = 0;
         for(auto it: arr) {
             if(abs(it-mid)%x) return -1;
-            if(it > mid) {
-                cnt += (it-mid)/x;
-            }
-            else if(it < mid) {
-                cnt += (mid-it)/x;
+            else {
+                cnt += abs(it-mid)/x;
             }
         }
         return cnt;
