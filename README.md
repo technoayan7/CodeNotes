@@ -45,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/technoayan7/CodeNotes/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1876-map-of-highest-peak](https://github.com/technoayan7/CodeNotes/tree/master/1876-map-of-highest-peak) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/technoayan7/CodeNotes/tree/master/1927-maximum-ascending-subarray-sum) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/technoayan7/CodeNotes/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2107-find-unique-binary-string](https://github.com/technoayan7/CodeNotes/tree/master/2107-find-unique-binary-string) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/technoayan7/CodeNotes/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/technoayan7/CodeNotes/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -74,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 |  |
 | ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/technoayan7/CodeNotes/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2478-longest-nice-subarray](https://github.com/technoayan7/CodeNotes/tree/master/2478-longest-nice-subarray) |
 | [2509-minimize-xor](https://github.com/technoayan7/CodeNotes/tree/master/2509-minimize-xor) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/technoayan7/CodeNotes/tree/master/2533-bitwise-xor-of-all-pairings) |
@@ -170,6 +172,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/technoayan7/CodeNotes/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/technoayan7/CodeNotes/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/technoayan7/CodeNotes/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/technoayan7/CodeNotes/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2610-closest-prime-numbers-in-range](https://github.com/technoayan7/CodeNotes/tree/master/2610-closest-prime-numbers-in-range) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/technoayan7/CodeNotes/tree/master/2802-find-the-punishment-number-of-an-integer) |
@@ -178,6 +181,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Combinatorics
 |  |
 | ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/technoayan7/CodeNotes/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [3739-manhattan-distances-of-all-arrangements-of-pieces](https://github.com/technoayan7/CodeNotes/tree/master/3739-manhattan-distances-of-all-arrangements-of-pieces) |
 ## Stack
 |  |
@@ -193,6 +197,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Backtracking
 |  |
 | ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/technoayan7/CodeNotes/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2107-find-unique-binary-string](https://github.com/technoayan7/CodeNotes/tree/master/2107-find-unique-binary-string) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/technoayan7/CodeNotes/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Dynamic Programming
@@ -235,4 +240,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/technoayan7/CodeNotes/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+## Enumeration
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/technoayan7/CodeNotes/tree/master/1993-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
