@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0038-count-and-say](https://github.com/technoayan7/CodeNotes/tree/master/0038-count-and-say) |
 | [1170-shortest-common-supersequence](https://github.com/technoayan7/CodeNotes/tree/master/1170-shortest-common-supersequence) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/technoayan7/CodeNotes/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2107-find-unique-binary-string](https://github.com/technoayan7/CodeNotes/tree/master/2107-find-unique-binary-string) |
