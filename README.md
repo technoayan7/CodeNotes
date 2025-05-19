@@ -76,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/technoayan7/CodeNotes/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/technoayan7/CodeNotes/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3227-find-missing-and-repeated-values](https://github.com/technoayan7/CodeNotes/tree/master/3227-find-missing-and-repeated-values) |
+| [3321-type-of-triangle](https://github.com/technoayan7/CodeNotes/tree/master/3321-type-of-triangle) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/technoayan7/CodeNotes/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/technoayan7/CodeNotes/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3430-count-days-without-meetings](https://github.com/technoayan7/CodeNotes/tree/master/3430-count-days-without-meetings) |
@@ -181,6 +182,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2681-put-marbles-in-bags](https://github.com/technoayan7/CodeNotes/tree/master/2681-put-marbles-in-bags) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/technoayan7/CodeNotes/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/technoayan7/CodeNotes/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3321-type-of-triangle](https://github.com/technoayan7/CodeNotes/tree/master/3321-type-of-triangle) |
 | [3430-count-days-without-meetings](https://github.com/technoayan7/CodeNotes/tree/master/3430-count-days-without-meetings) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/technoayan7/CodeNotes/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Math
@@ -194,6 +196,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2610-closest-prime-numbers-in-range](https://github.com/technoayan7/CodeNotes/tree/master/2610-closest-prime-numbers-in-range) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/technoayan7/CodeNotes/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [3227-find-missing-and-repeated-values](https://github.com/technoayan7/CodeNotes/tree/master/3227-find-missing-and-repeated-values) |
+| [3321-type-of-triangle](https://github.com/technoayan7/CodeNotes/tree/master/3321-type-of-triangle) |
 | [3548-find-the-count-of-good-integers](https://github.com/technoayan7/CodeNotes/tree/master/3548-find-the-count-of-good-integers) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/technoayan7/CodeNotes/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3739-manhattan-distances-of-all-arrangements-of-pieces](https://github.com/technoayan7/CodeNotes/tree/master/3739-manhattan-distances-of-all-arrangements-of-pieces) |
