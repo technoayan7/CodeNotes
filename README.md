@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/technoayan7/CodeNotes/tree/master/0073-set-matrix-zeroes) |
 | [1364-tuple-with-same-product](https://github.com/technoayan7/CodeNotes/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/technoayan7/CodeNotes/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2107-find-unique-binary-string](https://github.com/technoayan7/CodeNotes/tree/master/2107-find-unique-binary-string) |
@@ -42,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/technoayan7/CodeNotes/tree/master/0073-set-matrix-zeroes) |
 | [0368-largest-divisible-subset](https://github.com/technoayan7/CodeNotes/tree/master/0368-largest-divisible-subset) |
 | [0407-trapping-rain-water-ii](https://github.com/technoayan7/CodeNotes/tree/master/0407-trapping-rain-water-ii) |
 | [0854-making-a-large-island](https://github.com/technoayan7/CodeNotes/tree/master/0854-making-a-large-island) |
@@ -138,6 +140,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/technoayan7/CodeNotes/tree/master/0073-set-matrix-zeroes) |
 | [0407-trapping-rain-water-ii](https://github.com/technoayan7/CodeNotes/tree/master/0407-trapping-rain-water-ii) |
 | [0854-making-a-large-island](https://github.com/technoayan7/CodeNotes/tree/master/0854-making-a-large-island) |
 | [1396-count-servers-that-communicate](https://github.com/technoayan7/CodeNotes/tree/master/1396-count-servers-that-communicate) |
