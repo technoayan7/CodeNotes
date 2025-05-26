@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0073-set-matrix-zeroes](https://github.com/technoayan7/CodeNotes/tree/master/0073-set-matrix-zeroes) |
 | [1364-tuple-with-same-product](https://github.com/technoayan7/CodeNotes/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/technoayan7/CodeNotes/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/technoayan7/CodeNotes/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2107-find-unique-binary-string](https://github.com/technoayan7/CodeNotes/tree/master/2107-find-unique-binary-string) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/technoayan7/CodeNotes/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/technoayan7/CodeNotes/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -39,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1364-tuple-with-same-product](https://github.com/technoayan7/CodeNotes/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/technoayan7/CodeNotes/tree/master/1396-count-servers-that-communicate) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/technoayan7/CodeNotes/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/technoayan7/CodeNotes/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/technoayan7/CodeNotes/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/technoayan7/CodeNotes/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/technoayan7/CodeNotes/tree/master/3455-minimum-length-of-string-after-operations) |
@@ -132,6 +134,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0820-find-eventual-safe-states](https://github.com/technoayan7/CodeNotes/tree/master/0820-find-eventual-safe-states) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/technoayan7/CodeNotes/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1558-course-schedule-iv](https://github.com/technoayan7/CodeNotes/tree/master/1558-course-schedule-iv) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/technoayan7/CodeNotes/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/technoayan7/CodeNotes/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/technoayan7/CodeNotes/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/technoayan7/CodeNotes/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
@@ -180,6 +183,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0820-find-eventual-safe-states](https://github.com/technoayan7/CodeNotes/tree/master/0820-find-eventual-safe-states) |
 | [1558-course-schedule-iv](https://github.com/technoayan7/CodeNotes/tree/master/1558-course-schedule-iv) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/technoayan7/CodeNotes/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/technoayan7/CodeNotes/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/technoayan7/CodeNotes/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 ## Sorting
@@ -237,6 +241,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0368-largest-divisible-subset](https://github.com/technoayan7/CodeNotes/tree/master/0368-largest-divisible-subset) |
 | [1170-shortest-common-supersequence](https://github.com/technoayan7/CodeNotes/tree/master/1170-shortest-common-supersequence) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/technoayan7/CodeNotes/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/technoayan7/CodeNotes/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/technoayan7/CodeNotes/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Prefix Sum
 |  |
@@ -301,4 +306,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2280-count-good-triplets-in-an-array](https://github.com/technoayan7/CodeNotes/tree/master/2280-count-good-triplets-in-an-array) |
+## Memoization
+|  |
+| ------- |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/technoayan7/CodeNotes/tree/master/1986-largest-color-value-in-a-directed-graph) |
 <!---LeetCode Topics End-->
