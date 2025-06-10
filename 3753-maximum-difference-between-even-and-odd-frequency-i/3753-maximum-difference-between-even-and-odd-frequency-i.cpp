@@ -1,24 +1,15 @@
 class Solution {
 public:
     int maxDifference(string s) {
-        vector<int> mp(26, 0);
+        vector<int> mpp(26, 0);
         for(auto it: s) {
-            mp[it-'a']++;
+            mpp[it-'a']++;
         }
-        sort(mp.begin(), mp.end());
-        int a1 = 0, a2 = 0;
-        for(int i=0;i<26;i++) {
-            if(mp[i]!=0 and mp[i]%2==0) {
-                a2 = mp[i];
-                break;
-            }
-        }
-        for(int i=25;i>=0;i--) {
-            if(mp[i]%2==1) {
-                a1 = mp[i];
-                break;
-            }
-        }
-        return a1-a2;
+        int maxi = 0, mini = s.size();
+        for (int i = 0 ; i < 26; i++) {
+            if (mpp[i] % 2 == 1) maxi = max(maxi, mpp[i]);
+            if (mpp[i] % 2 == 0 && mpp[i] > 0) mini = min(mini, mpp[i]);
+        } 
+        return maxi - mini;
     }
 };
