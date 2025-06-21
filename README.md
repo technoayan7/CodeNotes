@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/technoayan7/CodeNotes/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/technoayan7/CodeNotes/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3227-find-missing-and-repeated-values](https://github.com/technoayan7/CodeNotes/tree/master/3227-find-missing-and-repeated-values) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/technoayan7/CodeNotes/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/technoayan7/CodeNotes/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3548-find-the-count-of-good-integers](https://github.com/technoayan7/CodeNotes/tree/master/3548-find-the-count-of-good-integers) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/technoayan7/CodeNotes/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -32,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/technoayan7/CodeNotes/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/technoayan7/CodeNotes/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/technoayan7/CodeNotes/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/technoayan7/CodeNotes/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3447-clear-digits](https://github.com/technoayan7/CodeNotes/tree/master/3447-clear-digits) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/technoayan7/CodeNotes/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/technoayan7/CodeNotes/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -45,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/technoayan7/CodeNotes/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/technoayan7/CodeNotes/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/technoayan7/CodeNotes/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/technoayan7/CodeNotes/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/technoayan7/CodeNotes/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/technoayan7/CodeNotes/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/technoayan7/CodeNotes/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -127,6 +130,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/technoayan7/CodeNotes/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/technoayan7/CodeNotes/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/technoayan7/CodeNotes/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/technoayan7/CodeNotes/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 ## Brainteaser
 |  |
 | ------- |
@@ -216,6 +220,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/technoayan7/CodeNotes/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/technoayan7/CodeNotes/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3321-type-of-triangle](https://github.com/technoayan7/CodeNotes/tree/master/3321-type-of-triangle) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/technoayan7/CodeNotes/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3430-count-days-without-meetings](https://github.com/technoayan7/CodeNotes/tree/master/3430-count-days-without-meetings) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/technoayan7/CodeNotes/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Math
