@@ -67,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1364-tuple-with-same-product](https://github.com/technoayan7/CodeNotes/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/technoayan7/CodeNotes/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/technoayan7/CodeNotes/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/technoayan7/CodeNotes/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/technoayan7/CodeNotes/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1876-map-of-highest-peak](https://github.com/technoayan7/CodeNotes/tree/master/1876-map-of-highest-peak) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/technoayan7/CodeNotes/tree/master/1927-maximum-ascending-subarray-sum) |
@@ -217,6 +218,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/technoayan7/CodeNotes/tree/master/0368-largest-divisible-subset) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/technoayan7/CodeNotes/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/technoayan7/CodeNotes/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/technoayan7/CodeNotes/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2681-put-marbles-in-bags](https://github.com/technoayan7/CodeNotes/tree/master/2681-put-marbles-in-bags) |
@@ -289,6 +291,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/technoayan7/CodeNotes/tree/master/0005-longest-palindromic-substring) |
 | [0647-palindromic-substrings](https://github.com/technoayan7/CodeNotes/tree/master/0647-palindromic-substrings) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/technoayan7/CodeNotes/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/technoayan7/CodeNotes/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/technoayan7/CodeNotes/tree/master/2551-apply-operations-to-an-array) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/technoayan7/CodeNotes/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -308,6 +311,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/technoayan7/CodeNotes/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/technoayan7/CodeNotes/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2280-count-good-triplets-in-an-array](https://github.com/technoayan7/CodeNotes/tree/master/2280-count-good-triplets-in-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/technoayan7/CodeNotes/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2665-minimum-time-to-repair-cars](https://github.com/technoayan7/CodeNotes/tree/master/2665-minimum-time-to-repair-cars) |
