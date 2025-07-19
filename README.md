@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0038-count-and-say](https://github.com/technoayan7/CodeNotes/tree/master/0038-count-and-say) |
 | [0647-palindromic-substrings](https://github.com/technoayan7/CodeNotes/tree/master/0647-palindromic-substrings) |
 | [1170-shortest-common-supersequence](https://github.com/technoayan7/CodeNotes/tree/master/1170-shortest-common-supersequence) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/technoayan7/CodeNotes/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1885-count-number-of-homogenous-substrings](https://github.com/technoayan7/CodeNotes/tree/master/1885-count-number-of-homogenous-substrings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/technoayan7/CodeNotes/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2107-find-unique-binary-string](https://github.com/technoayan7/CodeNotes/tree/master/2107-find-unique-binary-string) |
@@ -69,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0854-making-a-large-island](https://github.com/technoayan7/CodeNotes/tree/master/0854-making-a-large-island) |
 | [0945-snakes-and-ladders](https://github.com/technoayan7/CodeNotes/tree/master/0945-snakes-and-ladders) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/technoayan7/CodeNotes/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/technoayan7/CodeNotes/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1364-tuple-with-same-product](https://github.com/technoayan7/CodeNotes/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/technoayan7/CodeNotes/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/technoayan7/CodeNotes/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -202,6 +204,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0684-redundant-connection](https://github.com/technoayan7/CodeNotes/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/technoayan7/CodeNotes/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/technoayan7/CodeNotes/tree/master/0854-making-a-large-island) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/technoayan7/CodeNotes/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1396-count-servers-that-communicate](https://github.com/technoayan7/CodeNotes/tree/master/1396-count-servers-that-communicate) |
 | [1558-course-schedule-iv](https://github.com/technoayan7/CodeNotes/tree/master/1558-course-schedule-iv) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/technoayan7/CodeNotes/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
@@ -368,4 +371,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/technoayan7/CodeNotes/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
+## Trie
+|  |
+| ------- |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/technoayan7/CodeNotes/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 <!---LeetCode Topics End-->
