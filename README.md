@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/technoayan7/CodeNotes/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0073-set-matrix-zeroes](https://github.com/technoayan7/CodeNotes/tree/master/0073-set-matrix-zeroes) |
 | [1364-tuple-with-same-product](https://github.com/technoayan7/CodeNotes/tree/master/1364-tuple-with-same-product) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/technoayan7/CodeNotes/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -29,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/technoayan7/CodeNotes/tree/master/0005-longest-palindromic-substring) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/technoayan7/CodeNotes/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0038-count-and-say](https://github.com/technoayan7/CodeNotes/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/technoayan7/CodeNotes/tree/master/0058-length-of-last-word) |
 | [0647-palindromic-substrings](https://github.com/technoayan7/CodeNotes/tree/master/0647-palindromic-substrings) |
@@ -321,6 +323,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sliding Window
 |  |
 | ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/technoayan7/CodeNotes/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/technoayan7/CodeNotes/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2478-longest-nice-subarray](https://github.com/technoayan7/CodeNotes/tree/master/2478-longest-nice-subarray) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/technoayan7/CodeNotes/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
