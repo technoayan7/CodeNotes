@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/technoayan7/CodeNotes/tree/master/0005-longest-palindromic-substring) |
 | [0038-count-and-say](https://github.com/technoayan7/CodeNotes/tree/master/0038-count-and-say) |
+| [0058-length-of-last-word](https://github.com/technoayan7/CodeNotes/tree/master/0058-length-of-last-word) |
 | [0647-palindromic-substrings](https://github.com/technoayan7/CodeNotes/tree/master/0647-palindromic-substrings) |
 | [1170-shortest-common-supersequence](https://github.com/technoayan7/CodeNotes/tree/master/1170-shortest-common-supersequence) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/technoayan7/CodeNotes/tree/master/1350-remove-sub-folders-from-the-filesystem) |
