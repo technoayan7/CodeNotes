@@ -24,7 +24,6 @@ public:
             maxOR = maxOR | nums[i];
         }
         vector<int> ds;
-        sort(nums.begin(), nums.end());
         findSubsets(0, nums, ds, maxOR);
         return cnt;
     }
