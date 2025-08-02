@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/technoayan7/CodeNotes/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2479-meeting-rooms-iii](https://github.com/technoayan7/CodeNotes/tree/master/2479-meeting-rooms-iii) |
 | [2685-first-completely-painted-row-or-column](https://github.com/technoayan7/CodeNotes/tree/master/2685-first-completely-painted-row-or-column) |
+| [2689-rearranging-fruits](https://github.com/technoayan7/CodeNotes/tree/master/2689-rearranging-fruits) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/technoayan7/CodeNotes/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/technoayan7/CodeNotes/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3227-find-missing-and-repeated-values](https://github.com/technoayan7/CodeNotes/tree/master/3227-find-missing-and-repeated-values) |
@@ -103,6 +104,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2665-minimum-time-to-repair-cars](https://github.com/technoayan7/CodeNotes/tree/master/2665-minimum-time-to-repair-cars) |
 | [2681-put-marbles-in-bags](https://github.com/technoayan7/CodeNotes/tree/master/2681-put-marbles-in-bags) |
 | [2685-first-completely-painted-row-or-column](https://github.com/technoayan7/CodeNotes/tree/master/2685-first-completely-painted-row-or-column) |
+| [2689-rearranging-fruits](https://github.com/technoayan7/CodeNotes/tree/master/2689-rearranging-fruits) |
 | [2690-house-robber-iv](https://github.com/technoayan7/CodeNotes/tree/master/2690-house-robber-iv) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/technoayan7/CodeNotes/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/technoayan7/CodeNotes/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -149,6 +151,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/technoayan7/CodeNotes/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2509-minimize-xor](https://github.com/technoayan7/CodeNotes/tree/master/2509-minimize-xor) |
 | [2681-put-marbles-in-bags](https://github.com/technoayan7/CodeNotes/tree/master/2681-put-marbles-in-bags) |
+| [2689-rearranging-fruits](https://github.com/technoayan7/CodeNotes/tree/master/2689-rearranging-fruits) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/technoayan7/CodeNotes/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/technoayan7/CodeNotes/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/technoayan7/CodeNotes/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
@@ -243,6 +246,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/technoayan7/CodeNotes/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2479-meeting-rooms-iii](https://github.com/technoayan7/CodeNotes/tree/master/2479-meeting-rooms-iii) |
 | [2681-put-marbles-in-bags](https://github.com/technoayan7/CodeNotes/tree/master/2681-put-marbles-in-bags) |
+| [2689-rearranging-fruits](https://github.com/technoayan7/CodeNotes/tree/master/2689-rearranging-fruits) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/technoayan7/CodeNotes/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/technoayan7/CodeNotes/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/technoayan7/CodeNotes/tree/master/3241-divide-array-into-arrays-with-max-difference) |
