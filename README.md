@@ -329,6 +329,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/technoayan7/CodeNotes/tree/master/0005-longest-palindromic-substring) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/technoayan7/CodeNotes/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0647-palindromic-substrings](https://github.com/technoayan7/CodeNotes/tree/master/0647-palindromic-substrings) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/technoayan7/CodeNotes/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/technoayan7/CodeNotes/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -415,4 +416,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0826-soup-servings](https://github.com/technoayan7/CodeNotes/tree/master/0826-soup-servings) |
+## Linked List
+|  |
+| ------- |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/technoayan7/CodeNotes/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 <!---LeetCode Topics End-->
