@@ -10,11 +10,14 @@ public:
                 flag = 1;
                 curr = curr->next;
             }
-            if(flag == 0) {
-                prev->next = curr;
-                prev = prev->next;
+            if(flag == 1) {
+                curr = curr->next;
             }
-            curr = curr->next;
+            else {
+                prev->next = new ListNode(curr->val);
+                prev = prev->next;
+                curr = curr->next;
+            }
         }
         return newHead->next;
     }
