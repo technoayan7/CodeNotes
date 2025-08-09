@@ -136,6 +136,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/technoayan7/CodeNotes/tree/master/0231-power-of-two) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/technoayan7/CodeNotes/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/technoayan7/CodeNotes/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/technoayan7/CodeNotes/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -262,6 +263,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/technoayan7/CodeNotes/tree/master/0231-power-of-two) |
 | [0368-largest-divisible-subset](https://github.com/technoayan7/CodeNotes/tree/master/0368-largest-divisible-subset) |
 | [0826-soup-servings](https://github.com/technoayan7/CodeNotes/tree/master/0826-soup-servings) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/technoayan7/CodeNotes/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -420,4 +422,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/technoayan7/CodeNotes/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/technoayan7/CodeNotes/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
