@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0940-fruit-into-baskets](https://github.com/technoayan7/CodeNotes/tree/master/0940-fruit-into-baskets) |
 | [1364-tuple-with-same-product](https://github.com/technoayan7/CodeNotes/tree/master/1364-tuple-with-same-product) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/technoayan7/CodeNotes/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1632-number-of-good-ways-to-split-a-string](https://github.com/technoayan7/CodeNotes/tree/master/1632-number-of-good-ways-to-split-a-string) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/technoayan7/CodeNotes/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/technoayan7/CodeNotes/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2107-find-unique-binary-string](https://github.com/technoayan7/CodeNotes/tree/master/2107-find-unique-binary-string) |
@@ -38,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0647-palindromic-substrings](https://github.com/technoayan7/CodeNotes/tree/master/0647-palindromic-substrings) |
 | [1170-shortest-common-supersequence](https://github.com/technoayan7/CodeNotes/tree/master/1170-shortest-common-supersequence) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/technoayan7/CodeNotes/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1632-number-of-good-ways-to-split-a-string](https://github.com/technoayan7/CodeNotes/tree/master/1632-number-of-good-ways-to-split-a-string) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/technoayan7/CodeNotes/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1885-count-number-of-homogenous-substrings](https://github.com/technoayan7/CodeNotes/tree/master/1885-count-number-of-homogenous-substrings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/technoayan7/CodeNotes/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -138,6 +140,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0231-power-of-two](https://github.com/technoayan7/CodeNotes/tree/master/0231-power-of-two) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/technoayan7/CodeNotes/tree/master/0934-bitwise-ors-of-subarrays) |
+| [1632-number-of-good-ways-to-split-a-string](https://github.com/technoayan7/CodeNotes/tree/master/1632-number-of-good-ways-to-split-a-string) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/technoayan7/CodeNotes/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/technoayan7/CodeNotes/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2478-longest-nice-subarray](https://github.com/technoayan7/CodeNotes/tree/master/2478-longest-nice-subarray) |
@@ -317,6 +320,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0934-bitwise-ors-of-subarrays](https://github.com/technoayan7/CodeNotes/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1170-shortest-common-supersequence](https://github.com/technoayan7/CodeNotes/tree/master/1170-shortest-common-supersequence) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/technoayan7/CodeNotes/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1632-number-of-good-ways-to-split-a-string](https://github.com/technoayan7/CodeNotes/tree/master/1632-number-of-good-ways-to-split-a-string) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/technoayan7/CodeNotes/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/technoayan7/CodeNotes/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/technoayan7/CodeNotes/tree/master/3629-total-characters-in-string-after-transformations-i) |
