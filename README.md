@@ -267,6 +267,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/technoayan7/CodeNotes/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/technoayan7/CodeNotes/tree/master/0326-power-of-three) |
 | [0368-largest-divisible-subset](https://github.com/technoayan7/CodeNotes/tree/master/0368-largest-divisible-subset) |
 | [0826-soup-servings](https://github.com/technoayan7/CodeNotes/tree/master/0826-soup-servings) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/technoayan7/CodeNotes/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -430,4 +431,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/technoayan7/CodeNotes/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/technoayan7/CodeNotes/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
