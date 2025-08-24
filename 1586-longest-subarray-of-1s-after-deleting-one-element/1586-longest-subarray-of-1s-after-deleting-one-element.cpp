@@ -17,10 +17,10 @@ public:
                 i++;
             }
 
-            maxi = max(maxi, j-i+1);
+            maxi = max(maxi, j-i);
             j++;
         }
 
-        return maxi-1;
+        return maxi;
     }
 };
