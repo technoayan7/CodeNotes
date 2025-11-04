@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/technoayan7/CodeNotes/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/technoayan7/CodeNotes/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3548-find-the-count-of-good-integers](https://github.com/technoayan7/CodeNotes/tree/master/3548-find-the-count-of-good-integers) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/technoayan7/CodeNotes/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/technoayan7/CodeNotes/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/technoayan7/CodeNotes/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/technoayan7/CodeNotes/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -135,6 +136,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/technoayan7/CodeNotes/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/technoayan7/CodeNotes/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/technoayan7/CodeNotes/tree/master/3483-alternating-groups-ii) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/technoayan7/CodeNotes/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3643-zero-array-transformation-ii](https://github.com/technoayan7/CodeNotes/tree/master/3643-zero-array-transformation-ii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/technoayan7/CodeNotes/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/technoayan7/CodeNotes/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
@@ -213,6 +215,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2479-meeting-rooms-iii](https://github.com/technoayan7/CodeNotes/tree/master/2479-meeting-rooms-iii) |
 | [2681-put-marbles-in-bags](https://github.com/technoayan7/CodeNotes/tree/master/2681-put-marbles-in-bags) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/technoayan7/CodeNotes/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/technoayan7/CodeNotes/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Matrix
 |  |
 | ------- |
@@ -379,6 +382,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2478-longest-nice-subarray](https://github.com/technoayan7/CodeNotes/tree/master/2478-longest-nice-subarray) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/technoayan7/CodeNotes/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/technoayan7/CodeNotes/tree/master/3483-alternating-groups-ii) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/technoayan7/CodeNotes/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Binary Search
 |  |
 | ------- |
