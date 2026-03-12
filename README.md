@@ -183,6 +183,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/technoayan7/CodeNotes/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/technoayan7/CodeNotes/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/technoayan7/CodeNotes/tree/master/3360-minimum-deletions-to-make-string-k-special) |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/technoayan7/CodeNotes/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Brainteaser
 |  |
 | ------- |
@@ -403,6 +404,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2690-house-robber-iv](https://github.com/technoayan7/CodeNotes/tree/master/2690-house-robber-iv) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/technoayan7/CodeNotes/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/technoayan7/CodeNotes/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/technoayan7/CodeNotes/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3643-zero-array-transformation-ii](https://github.com/technoayan7/CodeNotes/tree/master/3643-zero-array-transformation-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/technoayan7/CodeNotes/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/technoayan7/CodeNotes/tree/master/3791-fruits-into-baskets-iii) |
@@ -471,4 +473,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1628-count-submatrices-with-all-ones](https://github.com/technoayan7/CodeNotes/tree/master/1628-count-submatrices-with-all-ones) |
+## Union-Find
+|  |
+| ------- |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/technoayan7/CodeNotes/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+## Graph Theory
+|  |
+| ------- |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/technoayan7/CodeNotes/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/technoayan7/CodeNotes/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 <!---LeetCode Topics End-->
