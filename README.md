@@ -91,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0940-fruit-into-baskets](https://github.com/technoayan7/CodeNotes/tree/master/0940-fruit-into-baskets) |
 | [0945-snakes-and-ladders](https://github.com/technoayan7/CodeNotes/tree/master/0945-snakes-and-ladders) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/technoayan7/CodeNotes/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1301-number-of-paths-with-max-score](https://github.com/technoayan7/CodeNotes/tree/master/1301-number-of-paths-with-max-score) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/technoayan7/CodeNotes/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/technoayan7/CodeNotes/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1364-tuple-with-same-product](https://github.com/technoayan7/CodeNotes/tree/master/1364-tuple-with-same-product) |
@@ -244,6 +245,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0407-trapping-rain-water-ii](https://github.com/technoayan7/CodeNotes/tree/master/0407-trapping-rain-water-ii) |
 | [0854-making-a-large-island](https://github.com/technoayan7/CodeNotes/tree/master/0854-making-a-large-island) |
 | [0945-snakes-and-ladders](https://github.com/technoayan7/CodeNotes/tree/master/0945-snakes-and-ladders) |
+| [1301-number-of-paths-with-max-score](https://github.com/technoayan7/CodeNotes/tree/master/1301-number-of-paths-with-max-score) |
 | [1396-count-servers-that-communicate](https://github.com/technoayan7/CodeNotes/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/technoayan7/CodeNotes/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1628-count-submatrices-with-all-ones](https://github.com/technoayan7/CodeNotes/tree/master/1628-count-submatrices-with-all-ones) |
@@ -370,6 +372,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0934-bitwise-ors-of-subarrays](https://github.com/technoayan7/CodeNotes/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1170-shortest-common-supersequence](https://github.com/technoayan7/CodeNotes/tree/master/1170-shortest-common-supersequence) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/technoayan7/CodeNotes/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1301-number-of-paths-with-max-score](https://github.com/technoayan7/CodeNotes/tree/master/1301-number-of-paths-with-max-score) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/technoayan7/CodeNotes/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1628-count-submatrices-with-all-ones](https://github.com/technoayan7/CodeNotes/tree/master/1628-count-submatrices-with-all-ones) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/technoayan7/CodeNotes/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
