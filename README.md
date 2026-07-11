@@ -214,6 +214,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/technoayan7/CodeNotes/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1558-course-schedule-iv](https://github.com/technoayan7/CodeNotes/tree/master/1558-course-schedule-iv) |
 | [1876-map-of-highest-peak](https://github.com/technoayan7/CodeNotes/tree/master/1876-map-of-highest-peak) |
+| [2685-count-the-number-of-complete-components](https://github.com/technoayan7/CodeNotes/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/technoayan7/CodeNotes/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/technoayan7/CodeNotes/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/technoayan7/CodeNotes/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
@@ -269,6 +270,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1396-count-servers-that-communicate](https://github.com/technoayan7/CodeNotes/tree/master/1396-count-servers-that-communicate) |
 | [1558-course-schedule-iv](https://github.com/technoayan7/CodeNotes/tree/master/1558-course-schedule-iv) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/technoayan7/CodeNotes/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
+| [2685-count-the-number-of-complete-components](https://github.com/technoayan7/CodeNotes/tree/master/2685-count-the-number-of-complete-components) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/technoayan7/CodeNotes/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/technoayan7/CodeNotes/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 ## Union Find
@@ -506,11 +508,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Union-Find
 |  |
 | ------- |
+| [2685-count-the-number-of-complete-components](https://github.com/technoayan7/CodeNotes/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/technoayan7/CodeNotes/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/technoayan7/CodeNotes/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Graph Theory
 |  |
 | ------- |
+| [2685-count-the-number-of-complete-components](https://github.com/technoayan7/CodeNotes/tree/master/2685-count-the-number-of-complete-components) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/technoayan7/CodeNotes/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Minimum Spanning Tree
 |  |
