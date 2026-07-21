@@ -60,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3396-valid-word](https://github.com/technoayan7/CodeNotes/tree/master/3396-valid-word) |
 | [3447-clear-digits](https://github.com/technoayan7/CodeNotes/tree/master/3447-clear-digits) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/technoayan7/CodeNotes/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/technoayan7/CodeNotes/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/technoayan7/CodeNotes/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/technoayan7/CodeNotes/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Counting
@@ -452,6 +453,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1993-sum-of-all-subset-xor-totals](https://github.com/technoayan7/CodeNotes/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/technoayan7/CodeNotes/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/technoayan7/CodeNotes/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/technoayan7/CodeNotes/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3548-find-the-count-of-good-integers](https://github.com/technoayan7/CodeNotes/tree/master/3548-find-the-count-of-good-integers) |
 ## Divide and Conquer
 |  |
